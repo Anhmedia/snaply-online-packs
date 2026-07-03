@@ -4,16 +4,18 @@
   "packs": [
     {
       "packId": "typotonghop1",
-      "name": "typo tong hop v1",
+      "name": "Typo tổng hợp V1",
       "version": "1.0.1",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packs-v1.0.1/typotonghop1-v1.0.1.snpack",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typotonghop1-v1.0.1.snpack",
       "size": 7100328,
       "sha256": "e943d7177da92e350a8faa03ec6466edf7790a2037664a9b2260d30ff5c97df5",
-      "description": "0849949678 zalo",
+      "description": "Bộ typo tổng hợp dành cho thiết kế album",
       "category": "typo",
-      "coverUrl": "",
-      "previewUrls": [],
+      "coverUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/typotonghop1-v1.0.1.webp",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/typotonghop1-v1.0.1.webp"
+      ],
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -26,16 +28,18 @@
     },
     {
       "packId": "elementtonghopv1",
-      "name": "element tong hop v1",
+      "name": "Element tổng hợp V1",
       "version": "1.0.1",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packs-v1.0.1/elementtonghopv1-v1.0.1.snpack",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/elementtonghopv1-v1.0.1.snpack",
       "size": 2678925,
       "sha256": "4520e2f8db2f65fcbb35d191579cad8d8e0746e19490a1179f166a7f9195723b",
-      "description": "0849949678 zalo",
+      "description": "Bộ element tổng hợp dành cho thiết kế album",
       "category": "element",
-      "coverUrl": "",
-      "previewUrls": [],
+      "coverUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/elementtonghopv1-v1.0.1.webp",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/elementtonghopv1-v1.0.1.webp"
+      ],
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -48,16 +52,18 @@
     },
     {
       "packId": "elementkhuydongdauv1",
-      "name": "element khuy đóng dấu v1",
+      "name": "Element khuy đóng dấu V1",
       "version": "1.0.1",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packs-v1.0.1/elementkhuydongdauv1-v1.0.1.snpack",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/elementkhuydongdauv1-v1.0.1.snpack",
       "size": 7201104,
       "sha256": "a0342aba54344ea80ffb09c1563a1c81ff5e19a197267b461d33f0c7a50ee8d3",
-      "description": "0849949678 zalo",
+      "description": "Bộ element khuy và đóng dấu dành cho thiết kế album",
       "category": "element",
-      "coverUrl": "",
-      "previewUrls": [],
+      "coverUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/elementkhuydongdauv1-v1.0.1.webp",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/elementkhuydongdauv1-v1.0.1.webp"
+      ],
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -70,16 +76,18 @@
     },
     {
       "packId": "elementcaylahoav1",
-      "name": "elementcaylahoav1",
+      "name": "Element cây lá hoa V1",
       "version": "1.0.1",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packs-v1.0.1/elementcaylahoav1-v1.0.1.snpack",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/elementcaylahoav1-v1.0.1.snpack",
       "size": 26048478,
       "sha256": "35513b42af579a8bcd41bf60e9ab8b1558a71128a18a4a22495fc3af7d44b846",
-      "description": "0849949678 zalo",
+      "description": "Bộ element cây, lá và hoa dành cho thiết kế album",
       "category": "element",
-      "coverUrl": "",
-      "previewUrls": [],
+      "coverUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/elementcaylahoav1-v1.0.1.webp",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/elementcaylahoav1-v1.0.1.webp"
+      ],
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -92,16 +100,18 @@
     },
     {
       "packId": "backgroudpinkv1",
-      "name": "backgroudpinkv1",
+      "name": "Background Pink V1",
       "version": "1.0.1",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packs-v1.0.1/backgroundpinkv1-v1.0.1.snpack",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/backgroundpinkv1-v1.0.1.snpack",
       "size": 8003012,
       "sha256": "1c771f037b5cc679a336e4c8d6bf3d84bb36d80ce9bb219152d3da5a25d144ef",
-      "description": "",
+      "description": "Bộ background tông hồng dành cho thiết kế album",
       "category": "background",
-      "coverUrl": "",
-      "previewUrls": [],
+      "coverUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/backgroundpinkv1-v1.0.1.webp",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/backgroundpinkv1-v1.0.1.webp"
+      ],
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -114,16 +124,18 @@
     },
     {
       "packId": "backgroudgreenv1",
-      "name": "backgroudgreenv1",
+      "name": "Background Green V1",
       "version": "1.0.1",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packs-v1.0.1/backgroundgreenv1-v1.0.1.snpack",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/backgroundgreenv1-v1.0.1.snpack",
       "size": 25277972,
       "sha256": "62a25413d6acae3d0772fef8bc14088f2a1d87f723838bb46f15e3664df970e0",
-      "description": "",
+      "description": "Bộ background tông xanh dành cho thiết kế album",
       "category": "background",
-      "coverUrl": "",
-      "previewUrls": [],
+      "coverUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/backgroundgreenv1-v1.0.1.webp",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/backgroundgreenv1-v1.0.1.webp"
+      ],
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -136,16 +148,18 @@
     },
     {
       "packId": "backgroudbev1",
-      "name": "backgroudbev1",
+      "name": "Background Be V1",
       "version": "1.0.1",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packs-v1.0.1/backgroundbev1-v1.0.1.snpack",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/backgroundbev1-v1.0.1.snpack",
       "size": 15035829,
       "sha256": "f6a8759cf6341a21729b7326f24454346e4d110b5693feb81c0fc559ce394383",
-      "description": "",
+      "description": "Bộ background tông be dành cho thiết kế album",
       "category": "background",
-      "coverUrl": "",
-      "previewUrls": [],
+      "coverUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/backgroundbev1-v1.0.1.webp",
+      "previewUrls": [
+        "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/main/covers/backgroundbev1-v1.0.1.webp"
+      ],
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
