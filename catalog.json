@@ -527,6 +527,31 @@
       "assetCounts": {
         "typo": 10
       }
-    }
+    },
+    {
+  "packId": "thietke1a",
+  "name": "Thiết kế 1A",
+  "version": "1.0.0",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietke1a-v1.0.0.snpack",
+  "size": 4656126,
+  "sha256": "309311350bf0592d118dcdd9bb532ff2d75bd8a16a335b54d50ce0d467b58870",
+  "description": "Bộ thiết kế mẫu 1A dành cho thiết kế album",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietke1a-v1.0.0.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietke1a-v1.0.0.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "background": 1,
+    "design-template": 1
+  }
+}
   ]
 }
