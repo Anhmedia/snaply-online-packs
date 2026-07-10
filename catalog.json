@@ -600,15 +600,15 @@
         "typo": 22
       }
     },
-    {
-  "packId": "thietkedesignv1",
-  "name": "Thiết kế Design V1",
+   {
+  "packId": "thietkedesignp1",
+  "name": "Thiết kế Design P1",
   "version": "1.0.0",
   "tier": "vip",
-  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietkedesignv1-v1.0.0.snpack",
-  "size": 13223780,
-  "sha256": "ea5dcff89f2a942529ec1e9a257a92f66148e3b4e8bb50856ae86e82dc8de411",
-  "description": "Bộ thiết kế mẫu V1 dành cho thiết kế album",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietkedesignp1-v1.0.0.snpack",
+  "size": 23883070,
+  "sha256": "dc7363200d540f574a3b4fbf626b2eb2c7e43a6bebdabafd9914449b816ef29f",
+  "description": "Bộ thiết kế mẫu P1 dành cho thiết kế album",
   "category": "design",
   "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedesignv1-v1.0.0.webp",
   "previewUrls": [
@@ -621,10 +621,10 @@
     "keyId": "snaply-pack-key-v1"
   },
   "assetCounts": {
-    "typo": 21,
-    "design-template": 67,
-    "element": 1,
-    "background": 3
+    "design-template": 63,
+    "element": 67,
+    "typo": 7,
+    "background": 1
   }
 }
   ]
