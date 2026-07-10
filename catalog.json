@@ -150,9 +150,9 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov1korea-v1.0.0.snpack",
-      "size": 11447507,
-      "sha256": "e89441c97de7f73083679072008e1ed6efaa5c94a02e29699c5158ee66cc1394",
-      "description": "Bộ typo phong cách Korea dành cho thiết kế album",
+      "size": 3849579,
+      "sha256": "e3dd03c217e52a0699c7c8d64bb03140527c2cfc08ad0b276d742b50bbfca567",
+      "description": "Bộ typo phong cách Korea V1 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov1korea-v1.0.0.webp",
       "previewUrls": [
@@ -165,8 +165,56 @@
         "keyId": "snaply-pack-key-v1"
       },
       "assetCounts": {
-        "typo": 9
+        "typo": 17
       }
+    },
+    {
+      "packId": "typov1textbiger",
+      "name": "Typo Text Bigger V1",
+      "version": "1.0.0",
+      "tier": "vip",
+      "size": 20652571,
+      "sha256": "82350ad9bad388d43fcbea6f0c5ca797f77bd1bcc923042427cb8b097bfe3e79",
+      "description": "Bộ typo chữ lớn V1 dành cho thiết kế album",
+      "appMinVersion": "0.1.0",
+      "encryption": {
+        "containerVersion": 1,
+        "algorithm": "AES-256-GCM",
+        "keyId": "snaply-pack-key-v1"
+      },
+      "assetCounts": {
+        "typo": 19
+      },
+      "category": "typo",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov1textbiger-v1.0.0.snpack",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov1textbiger-v1.0.0.webp",
+      "previewUrls": [
+        "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov1textbiger-v1.0.0.webp"
+      ]
+    },
+    {
+      "packId": "typov1textbiger2",
+      "name": "Typo Text Bigger V2",
+      "version": "1.0.0",
+      "tier": "vip",
+      "size": 15318442,
+      "sha256": "91a746bc3b1515092fe791546041a70456a32e343db240705f45e11fc1d2d507",
+      "description": "Bộ typo chữ lớn V2 dành cho thiết kế album",
+      "appMinVersion": "0.1.0",
+      "encryption": {
+        "containerVersion": 1,
+        "algorithm": "AES-256-GCM",
+        "keyId": "snaply-pack-key-v1"
+      },
+      "assetCounts": {
+        "typo": 24
+      },
+      "category": "typo",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov1textbiger2-v1.0.0.snpack",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov1textbiger2-v1.0.0.webp",
+      "previewUrls": [
+        "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov1textbiger2-v1.0.0.webp"
+      ]
     },
     {
       "packId": "typov2",
@@ -174,8 +222,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov2-v1.0.0.snpack",
-      "size": 1259434,
-      "sha256": "cb33bf6bbf8f5c814a5d4f9ccf5d27c21f1eae0f4bbd85393d97f75eb75045da",
+      "size": 1259439,
+      "sha256": "430e52ae054c6a2d1586da65d05be9dd1739044306e8bf9b2ca09b6d39817f75",
       "description": "Bộ typo V2 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov2-v1.0.0.webp",
@@ -198,8 +246,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov3-v1.0.0.snpack",
-      "size": 1398967,
-      "sha256": "cb686e659c2744bbb3d60950e4763ef5fa33b93b240def08f67516cdc9a0e46a",
+      "size": 1398974,
+      "sha256": "5fce2a887f67ce6c0cb8779205006b0a68bd8b3113855f7827ee9217053626f1",
       "description": "Bộ typo V3 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3-v1.0.0.webp",
@@ -217,19 +265,13 @@
       }
     },
     {
-      "packId": "typov3fashion",
-      "name": "Typo Fashion V3",
+      "packId": "typov3fashion1",
+      "name": "Typo Fashion V1",
       "version": "1.0.0",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov3fashion-v1.0.0.snpack",
-      "size": 47752303,
-      "sha256": "cc0d84c3d3efc3d61fae03bc8487c9f5a3788e67ee75da090a6da821410ed8c4",
-      "description": "Bộ typo phong cách fashion dành cho thiết kế album",
-      "category": "typo",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3fashion-v1.0.0.webp",
-      "previewUrls": [
-        "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3fashion-v1.0.0.webp"
-      ],
+      "size": 35460608,
+      "sha256": "25f4ec0d9b96466eb91a0350f5073725b224699b0184c889d48cd0298bb565d8",
+      "description": "Bộ typo phong cách thời trang V1 dành cho thiết kế album",
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -237,8 +279,38 @@
         "keyId": "snaply-pack-key-v1"
       },
       "assetCounts": {
-        "typo": 9
-      }
+        "typo": 26
+      },
+      "category": "typo",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov3fashion1-v1.0.0.snpack",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3fashion1-v1.0.0.webp",
+      "previewUrls": [
+        "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3fashion1-v1.0.0.webp"
+      ]
+    },
+    {
+      "packId": "typov3fashion2",
+      "name": "Typo Fashion V2",
+      "version": "1.0.0",
+      "tier": "vip",
+      "size": 72375034,
+      "sha256": "5565617aec9a86835bf4b1ee62e858d5ec5a5aac2aeeca2ce5020160e338f1ae",
+      "description": "Bộ typo phong cách thời trang V2 dành cho thiết kế album",
+      "appMinVersion": "0.1.0",
+      "encryption": {
+        "containerVersion": 1,
+        "algorithm": "AES-256-GCM",
+        "keyId": "snaply-pack-key-v1"
+      },
+      "assetCounts": {
+        "typo": 22
+      },
+      "category": "typo",
+      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov3fashion2-v1.0.0.snpack",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3fashion2-v1.0.0.webp",
+      "previewUrls": [
+        "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3fashion2-v1.0.0.webp"
+      ]
     },
     {
       "packId": "typov4",
@@ -246,8 +318,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov4-v1.0.0.snpack",
-      "size": 1024633,
-      "sha256": "0262a45f150ab6951a04e7cc30295dcf5aa2f065d7bbe22691e4da96c1e0f723",
+      "size": 1024639,
+      "sha256": "26c536bdcb49636f7fd73a31b7ff67809cf0198ef099848ae07288e30ec9d23d",
       "description": "Bộ typo V4 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov4-v1.0.0.webp",
@@ -270,8 +342,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov5-v1.0.0.snpack",
-      "size": 15591548,
-      "sha256": "885ebf2d70b8e564f900e386fee076da7fd083e7c26b103b2778528f297bb3b1",
+      "size": 22485432,
+      "sha256": "2b52d54eda24755a27431ca146986ba8dc4fbd4a0ffef48055a538c1d60ccce8",
       "description": "Bộ typo V5 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov5-v1.0.0.webp",
@@ -285,7 +357,7 @@
         "keyId": "snaply-pack-key-v1"
       },
       "assetCounts": {
-        "typo": 12
+        "typo": 30
       }
     },
     {
@@ -294,8 +366,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov6-v1.0.0.snpack",
-      "size": 4014240,
-      "sha256": "ebe38303e18debc11e836843f36586e5226f01b2ceb5cc0cdd5a8957cde4c2eb",
+      "size": 4014249,
+      "sha256": "46c218e112a6fdb755189fec8a5e68d7d61959432b7fed5b44642fdbf7f432c1",
       "description": "Bộ typo V6 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov6-v1.0.0.webp",
@@ -318,8 +390,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov7-v1.0.0.snpack",
-      "size": 680566,
-      "sha256": "ea2291cd14e9d852c8d12d9499995db57f7b947a0fed0cfdd31dee45617ad22a",
+      "size": 680577,
+      "sha256": "be4ff540861dee19961694b8b371a46170e6ee301da45e5a6b0623a52cb7fd7e",
       "description": "Bộ typo V7 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov7-v1.0.0.webp",
@@ -342,8 +414,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov8-v1.0.0.snpack",
-      "size": 1264902,
-      "sha256": "2c2a89ea30c16f423cee6e29f6ba1f675cc6e58b5252494c2bf45594f7749a2b",
+      "size": 1264913,
+      "sha256": "729f5faf07ea3661990f816557d85cd3ab595e31ba6f45bd50f3fa88839f3ec2",
       "description": "Bộ typo V8 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov8-v1.0.0.webp",
@@ -366,9 +438,9 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov8korea-v1.0.0.snpack",
-      "size": 1284327,
-      "sha256": "5dc63c630189a57e9d7b9228db8ae0d89fff82d6b500286ddd9186c84e3b9a8e",
-      "description": "Bộ typo phong cách Korea dành cho thiết kế album",
+      "size": 1284340,
+      "sha256": "ac515841caae08774040be6f89342a42113882578ab49b8cde9401dd5bcad26b",
+      "description": "Bộ typo phong cách Korea V8 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov8korea-v1.0.0.webp",
       "previewUrls": [
@@ -390,8 +462,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov9-v1.0.0.snpack",
-      "size": 1516601,
-      "sha256": "38ff4bd670763ed02dd53e79abc58b4ee39a8bcc306c0e7c8fe4fd38bfcc855e",
+      "size": 1516606,
+      "sha256": "15ae4b758da5456191d16538306b0c74c3a6b870cd067f8dd44982019e44b92f",
       "description": "Bộ typo V9 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov9-v1.0.0.webp",
@@ -414,9 +486,9 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov10korea-v1.0.0.snpack",
-      "size": 5697957,
-      "sha256": "b594b400212658df09aecc8f86c474300f39872abc5724a8f2be927c6afcb9f2",
-      "description": "Bộ typo phong cách Korea dành cho thiết kế album",
+      "size": 5697960,
+      "sha256": "f2f2527c80edca826b67cf9b5dafc6cb1aba88df13ffc99b155860010ec4e876",
+      "description": "Bộ typo phong cách Korea V10 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov10korea-v1.0.0.webp",
       "previewUrls": [
@@ -438,8 +510,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov11-v1.0.0.snpack",
-      "size": 5267139,
-      "sha256": "9946d3bafbd2761a5c97288ddc2dcdafde85843a247bda4fb3379a0244f44289",
+      "size": 5267147,
+      "sha256": "99d01bf41c56ab949e9a14880d6608cb2ce3348b9d9a217a5a43f52af8d8289a",
       "description": "Bộ typo V11 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov11-v1.0.0.webp",
@@ -462,8 +534,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov12-v1.0.0.snpack",
-      "size": 5924671,
-      "sha256": "bd52e1f48072db95a5250f1c2f22af249cc57abfcff8944ea5631997d45c2965",
+      "size": 8475275,
+      "sha256": "07f8cd993686bc95f8da6ef22337ea35aa2ed573c1a4c44f42f743023c1f26c4",
       "description": "Bộ typo V12 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov12-v1.0.0.webp",
@@ -477,7 +549,7 @@
         "keyId": "snaply-pack-key-v1"
       },
       "assetCounts": {
-        "typo": 7
+        "typo": 21
       }
     },
     {
@@ -486,8 +558,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov13-v1.0.0.snpack",
-      "size": 5945186,
-      "sha256": "05bef61d8a5be8c1a01c8c5993721818a535c287a0f8a7b4d58f2ec5a852310b",
+      "size": 2956747,
+      "sha256": "3b0047a766f9689f7f8543a4b1d5080cd8352cc0a49c19bd980152c70a9d4c76",
       "description": "Bộ typo V13 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov13-v1.0.0.webp",
@@ -501,7 +573,7 @@
         "keyId": "snaply-pack-key-v1"
       },
       "assetCounts": {
-        "typo": 12
+        "typo": 30
       }
     },
     {
@@ -510,8 +582,8 @@
       "version": "1.0.0",
       "tier": "vip",
       "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typov14-v1.0.0.snpack",
-      "size": 3754826,
-      "sha256": "4e1b1bf63ad0b7e184ccabda42ae4f6b7bf5478b196cf1273805b5a48a4ba217",
+      "size": 3469946,
+      "sha256": "edf7c4912f457fbe3c3e1e6b5037f67bf2ab74ee5d0460583ced93461b272b75",
       "description": "Bộ typo V14 dành cho thiết kế album",
       "category": "typo",
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov14-v1.0.0.webp",
@@ -525,33 +597,8 @@
         "keyId": "snaply-pack-key-v1"
       },
       "assetCounts": {
-        "typo": 10
+        "typo": 22
       }
-    },
-    {
-  "packId": "thietke1a",
-  "name": "Thiết kế 1A",
-  "version": "1.0.0",
-  "tier": "vip",
-  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietke1a-v1.0.0.snpack",
-  "size": 4656126,
-  "sha256": "309311350bf0592d118dcdd9bb532ff2d75bd8a16a335b54d50ce0d467b58870",
-  "description": "Bộ thiết kế mẫu 1A dành cho thiết kế album",
-  "category": "design",
-  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietke1a-v1.0.0.webp",
-  "previewUrls": [
-    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietke1a-v1.0.0.webp"
-  ],
-  "appMinVersion": "0.1.0",
-  "encryption": {
-    "containerVersion": 1,
-    "algorithm": "AES-256-GCM",
-    "keyId": "snaply-pack-key-v1"
-  },
-  "assetCounts": {
-    "background": 1,
-    "design-template": 1
-  }
-}
+    }
   ]
 }
