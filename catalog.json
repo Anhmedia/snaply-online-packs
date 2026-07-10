@@ -599,6 +599,33 @@
       "assetCounts": {
         "typo": 22
       }
-    }
+    },
+    {
+  "packId": "thietkedesignv1",
+  "name": "Thiết kế Design V1",
+  "version": "1.0.0",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietkedesignv1-v1.0.0.snpack",
+  "size": 13223780,
+  "sha256": "ea5dcff89f2a942529ec1e9a257a92f66148e3b4e8bb50856ae86e82dc8de411",
+  "description": "Bộ thiết kế mẫu V1 dành cho thiết kế album",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedesignv1-v1.0.0.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedesignv1-v1.0.0.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "typo": 21,
+    "design-template": 67,
+    "element": 1,
+    "background": 3
+  }
+}
   ]
 }
