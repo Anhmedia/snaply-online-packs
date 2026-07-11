@@ -626,6 +626,30 @@
     "typo": 7,
     "background": 1
   }
+},
+    {
+  "packId": "typotiengvietv1",
+  "name": "Typo Tiếng Việt V1",
+  "version": "1.0.0",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typotiengvietv1-v1.0.0.snpack",
+  "size": 8792118,
+  "sha256": "a3a5b957120048dd204e77592426b8207d19371cf928e08063baa3b93861cfb5",
+  "description": "Bộ typo tiếng Việt V1 dành cho thiết kế album",
+  "category": "typo",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typotiengvietv1-v1.0.0.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typotiengvietv1-v1.0.0.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "typo": 42
+  }
 }
   ]
 }
