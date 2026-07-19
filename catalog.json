@@ -650,6 +650,80 @@
   "assetCounts": {
     "typo": 42
   }
+},
+    {
+  "packId": "thietkeabmaudoctodon",
+  "name": "Thiết kế album mẫu dọc tờ đơn PSC",
+  "version": "1.0.0",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietkeabmaudoctodon-v1.0.0.snpack",
+  "size": 3647725,
+  "sha256": "e884ad06781c860a46d632cf8ff785774f97ba3d918b17a8e0aeb3f40b1ac641",
+  "description": "Bộ thiết kế album mẫu dọc tờ đơn PSC",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkeabmaudoctodon-v1.0.0.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkeabmaudoctodon-v1.0.0.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "element": 19,
+    "design-template": 125
+  }
+},
+{
+  "packId": "thietkeab2525todoi50x25",
+  "name": "Thiết kế album 25x25 tờ đôi 50x25",
+  "version": "1.0.0",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietkeab2525todoi50x25-v1.0.0.snpack",
+  "size": 3028795,
+  "sha256": "909fb093f1607bf86ffdb98e810a504a2ca7bf1ce3e9e9f6cbd8a650a6f6091c",
+  "description": "Bộ thiết kế album 25x25 tờ đôi kích thước 50x25",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkeab2525todoi50x25-v1.0.0.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkeab2525todoi50x25-v1.0.0.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "design-template": 148,
+    "element": 16
+  }
+},
+{
+  "packId": "biaalbum20x30",
+  "name": "Bìa Album 20x30",
+  "version": "1.0.0",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/biaalbum20x30-v1.0.0.snpack",
+  "size": 26463,
+  "sha256": "97a79e645ab2c7e6b9ff303ce0f0dfe87b62835c77b05293cb9295abf27045ba",
+  "description": "Bộ mẫu bìa album kích thước 20x30",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/biaalbum20x30-v1.0.0.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/biaalbum20x30-v1.0.0.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "design-template": 15
+  }
 }
   ]
 }
