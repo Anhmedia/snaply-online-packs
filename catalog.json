@@ -678,7 +678,7 @@
 },
 {
   "packId": "thietkeab2525todoi50x25",
-  "name": "Thiết kế album 25x25 tờ đôi 50x25",
+  "name": "Thiết kế album 20x20-25x25-30x30 tờ đôi",
   "version": "1.0.0",
   "tier": "vip",
   "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietkeab2525todoi50x25-v1.0.0.snpack",
@@ -703,7 +703,7 @@
 },
 {
   "packId": "biaalbum20x30",
-  "name": "Bìa Album 20x30",
+  "name": "Bìa Album 20×30-30×45-40x60 ",
   "version": "1.0.0",
   "tier": "vip",
   "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/biaalbum20x30-v1.0.0.snpack",
