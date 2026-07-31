@@ -724,6 +724,31 @@
   "assetCounts": {
     "design-template": 15
   }
+},
+    {
+  "packId": "fulktthietkewedding",
+  "name": "Thiết kế new v2 full",
+  "version": "1.0.1",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/fulktthietkewedding-v1.0.1.snpack",
+  "size": 11751447,
+  "sha256": "917e09e0e89b812cf01ffa437b0633ec7709aff97eadedc61b331822103c8b48",
+  "description": "Bộ mẫu thiết kế Wedding New V2 Full",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/fulktthietkewedding-v1.0.1.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/fulktthietkewedding-v1.0.1.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "typo": 1226,
+    "design-template": 817
+  }
 }
   ]
 }
