@@ -724,6 +724,78 @@
   "assetCounts": {
     "design-template": 15
   }
+},
+    {
+  "packId": "typofashion",
+  "name": "Typo Fashion",
+  "version": "1.0.1",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typofashion-v1.0.1.snpack",
+  "size": 94588317,
+  "sha256": "2c34219df348cfc5e2d7b3325b7a3e944591f2bdb1bc6ffa347c93d61a85786f",
+  "description": "Typo Fashion",
+  "category": "typo",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typofashion-v1.0.1.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typofashion-v1.0.1.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "typo": 44
+  }
+},
+{
+  "packId": "typokorea",
+  "name": "Typo Korea",
+  "version": "1.0.1",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typokorea-v1.0.1.snpack",
+  "size": 17395336,
+  "sha256": "5472a43336e9da5d152eddc9393318b8339c03df5d5ce784394eb42281ff92ad",
+  "description": "Typo Korea",
+  "category": "typo",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typokorea-v1.0.1.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typokorea-v1.0.1.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "typo": 59
+  }
+},
+{
+  "packId": "typotienganhwedding",
+  "name": "Typo Tiếng Anh Wedding",
+  "version": "1.0.1",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/typotienganhwedding-v1.0.1.snpack",
+  "size": 53074191,
+  "sha256": "81e02056b9a38a6e76f0c377ba5bc576c4607af76f9adb5f6368ccc992c9a697",
+  "description": "Typo Tiếng Anh Wedding",
+  "category": "typo",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typotienganhwedding-v1.0.1.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typotienganhwedding-v1.0.1.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "typo": 179
+  }
 }
   ]
 }
