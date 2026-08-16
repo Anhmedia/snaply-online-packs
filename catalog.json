@@ -796,6 +796,31 @@
   "assetCounts": {
     "typo": 179
   }
+},
+    {
+  "packId": "thietkedinhthaiv1",
+  "name": "Mẫu thiết kế Định Thái 1",
+  "version": "1.0.0",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/thietkedinhthaiv1-v1.0.0.snpack",
+  "size": 11751693,
+  "sha256": "4227b514878dc886aaac52b5f4cf4b4f87aa4e7ae446453c8b83e0197937e64d",
+  "description": "Mẫu thiết kế Định Thái 1",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedinhthaiv1-v1.0.0.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedinhthaiv1-v1.0.0.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "typo": 1226,
+    "design-template": 817
+  }
 }
   ]
 }
