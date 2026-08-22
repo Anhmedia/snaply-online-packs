@@ -873,6 +873,30 @@
     "typo": 2,
     "background": 1
   }
+},
+    {
+  "packId": "backgroudv2",
+  "name": "Backgroud Nền V2",
+  "version": "1.0.1",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/backgroudv2-v1.0.1.snpack",
+  "size": 22048689,
+  "sha256": "8e2024b652e5b020e72e0b3d8c71094bc2dc0fe732676e4f962a1df5e2862fe4",
+  "description": "Backgroud Nền ghép ảnh V2",
+  "category": "background",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudv2-v1.0.1.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudv2-v1.0.1.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "background": 75
+  }
 }
   ]
 }
