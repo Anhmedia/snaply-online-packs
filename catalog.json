@@ -874,19 +874,19 @@
     "background": 1
   }
 },
- {
-  "packId": "backgroudsnv2",
-  "name": "Backgroud Nền album v2",
-  "version": "1.0.2",
+{
+  "packId": "backgroudsnaplyv2",
+  "name": "Backgroud tong hop v2",
+  "version": "1.0.1",
   "tier": "vip",
-  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packsv1.0.1/backgroudsnv2-v1.0.2.snpack",
-  "size": 37981520,
-  "sha256": "b47c7697e52b0cc07805c70682df345a8ecb2c390d33d7d45cac2d73ab6458eb",
-  "description": "Backgroud Nền album v2",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packsv1.0.1/backgroudsnaplyv2-v1.0.1.snpack",
+  "size": 37704261,
+  "sha256": "1ff2ac3203ea58516b5cea97a04b6778364d528c5f8fb55c880e7d75bcc7bbda",
+  "description": "Backgroud tong hop v2",
   "category": "background",
-  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudsnv2-v1.0.2.webp",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudsnaplyv2-v1.0.1.webp",
   "previewUrls": [
-    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudsnv2-v1.0.2.webp"
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudsnaplyv2-v1.0.1.webp"
   ],
   "appMinVersion": "0.1.0",
   "encryption": {
@@ -895,7 +895,7 @@
     "keyId": "snaply-pack-key-v1"
   },
   "assetCounts": {
-    "background": 129
+    "background": 127
   }
 }
   ]
