@@ -821,6 +821,58 @@
     "typo": 1226,
     "design-template": 817
   }
+},
+    {
+  "packId": "bia20x30v2",
+  "name": "Bìa Album 20x30",
+  "version": "1.0.1",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/bia20x30v2-v1.0.1.snpack", 
+  "size": 22136900, 
+  "sha256": "d1675fd447c13e2eb86a4dab496a59fcd27f15b2619a5cfb732a44d9e680e149", 
+  "description": "Mẫu Bìa Album Dọc 20×30-30×45-40x60", 
+  "category": "design", 
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/bia20x30v2-v1.0.1.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/bia20x30v2-v1.0.1.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "typo": 2,
+    "design-template": 53,
+    "background": 1
+  }
+},
+{
+  "packId": "biaalbumvuong",
+  "name": "Bìa Album Vuông tỉ lệ 1x1",
+  "version": "1.0.1",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/latest/download/biaalbumvuong-v1.0.1.snpack",
+  "size": 22146851,
+  "sha256": "a166d6eb362a809103d84c766c30cf0b580e991b65e110054e1fb402bb070fdd",
+  "description": "Bìa Album Vuông 20x20-25x25-30x30",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/biaalbumvuong-v1.0.1.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/biaalbumvuong-v1.0.1.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "design-template": 53,
+    "typo": 2,
+    "background": 1
+  }
 }
   ]
 }
