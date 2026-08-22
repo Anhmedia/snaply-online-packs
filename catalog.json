@@ -897,6 +897,31 @@
   "assetCounts": {
     "background": 127
   }
+},
+    {
+  "packId": "thietkedocv3",
+  "name": "Thiết kế Dọc Snaply v3",
+  "version": "1.0.2",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packsv1.0.1/thietkedocv3-v1.0.2.snpack",
+  "size": 1977121,
+  "sha256": "65f05f3d8c7d579b14e5a239efe96a9d7b4f236a5c74609239e1f5c0f3df341c",
+  "description": "Thiết kế Dọc Snaply v3",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedocv3-v1.0.2.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedocv3-v1.0.2.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "design-template": 419,
+    "typo": 28
+  }
 }
   ]
 }
