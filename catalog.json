@@ -228,7 +228,7 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov2-v1.0.0.webp"
       ],
-      "downloadUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/pilot-per-pack-key/pilot/typov2-v1.0.1.snpack",
+      "downloadUrl": "https://snaply-packs-gateway.vuvn.workers.dev/packs/object?packId=typov2&version=1.0.1",
       "size": 1259441,
       "sha256": "3979f7b05d8b7f6ba8e68cb46c7921971a30d292eddb3714e895d4543f535d59",
       "appMinVersion": "0.1.0",
