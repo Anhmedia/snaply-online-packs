@@ -882,6 +882,29 @@
         "typo": 380,
         "element": 5
       }
+    },
+    {
+      "packId": "snaply-builtin-templates",
+      "name": "Mẫu dựng sẵn Snaply",
+      "version": "1.0.0",
+      "tier": "vip",
+      "description": "Bộ 1469 mẫu dựng sẵn đi kèm Snaply Album.",
+      "category": "design",
+      "tags": [],
+      "previewUrls": [],
+      "downloadUrl": "https://snaply-packs-gateway.vuvn.workers.dev/packs/object?packId=snaply-builtin-templates&version=1.0.0",
+      "size": 1159166,
+      "sha256": "8f7d35e1494b021570a61686b5643d8b786dbf376269765962afe0ccf4a5e4bb",
+      "appMinVersion": "3.3.0",
+      "builtin": true,
+      "encryption": {
+        "containerVersion": 1,
+        "algorithm": "AES-256-GCM",
+        "keyId": "pk-snaply-builtin-templates-6e2a184a"
+      },
+      "assetCounts": {
+        "design-template": 1469
+      }
     }
   ]
 }
