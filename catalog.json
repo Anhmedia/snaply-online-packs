@@ -219,22 +219,23 @@
     {
       "packId": "typov2",
       "name": "Typo V2",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "tier": "vip",
-      "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packsv1.0.1/typov2-v1.0.0.snpack",
-      "size": 1259439,
-      "sha256": "430e52ae054c6a2d1586da65d05be9dd1739044306e8bf9b2ca09b6d39817f75",
       "description": "Bộ typo V2 dành cho thiết kế album",
       "category": "typo",
+      "tags": [],
       "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov2-v1.0.0.webp",
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov2-v1.0.0.webp"
       ],
+      "downloadUrl": "https://raw.githubusercontent.com/Anhmedia/snaply-online-packs/pilot-per-pack-key/pilot/typov2-v1.0.1.snpack",
+      "size": 1259441,
+      "sha256": "3979f7b05d8b7f6ba8e68cb46c7921971a30d292eddb3714e895d4543f535d59",
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
         "algorithm": "AES-256-GCM",
-        "keyId": "snaply-pack-key-v1"
+        "keyId": "pk-typov2-4cd055e5"
       },
       "assetCounts": {
         "typo": 12
