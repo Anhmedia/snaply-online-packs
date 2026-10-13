@@ -905,6 +905,31 @@
       "assetCounts": {
         "design-template": 1469
       }
+    },
+    {
+      "packId": "album-thiet-ke",
+      "name": "Album thiet ké",
+      "version": "1.0.0",
+      "tier": "vip",
+      "description": "Gói thiết kế 1",
+      "category": "design",
+      "tags": [],
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/album-thiet-ke-v1.0.0.webp",
+      "previewUrls": [
+        "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/album-thiet-ke-v1.0.0.webp"
+      ],
+      "downloadUrl": "https://snaply-packs-gateway.vuvn.workers.dev/packs/object?packId=album-thiet-ke&version=1.0.0",
+      "size": 79960,
+      "sha256": "a4515d718510329eb790da408e1b07961fa0e10c150bacb3f0fccfb26c4509c0",
+      "appMinVersion": "0.1.0",
+      "encryption": {
+        "containerVersion": 2,
+        "algorithm": "AES-256-GCM",
+        "keyId": "pk-album-thiet-ke-d88b9230"
+      },
+      "assetCounts": {
+        "design-template": 5
+      }
     }
   ]
 }
