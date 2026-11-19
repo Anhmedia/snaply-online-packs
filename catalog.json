@@ -24,6 +24,33 @@
         "element": 7
       }
     },
+   {
+  "packId": "thietkedesignp1",
+  "name": "Thiết kế Design P1",
+  "version": "1.0.0",
+  "tier": "vip",
+  "downloadUrl": "https://github.com/Anhmedia/snaply-online-packs/releases/download/packsv1.0.1/thietkedesignp1-v1.0.0.snpack",
+  "size": 23883070,
+  "sha256": "dc7363200d540f574a3b4fbf626b2eb2c7e43a6bebdabafd9914449b816ef29f",
+  "description": "Bộ thiết kế mẫu P1 dành cho thiết kế album",
+  "category": "design",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedesignv1-v1.0.0.webp",
+  "previewUrls": [
+    "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedesignv1-v1.0.0.webp"
+  ],
+  "appMinVersion": "0.1.0",
+  "encryption": {
+    "containerVersion": 1,
+    "algorithm": "AES-256-GCM",
+    "keyId": "snaply-pack-key-v1"
+  },
+  "assetCounts": {
+    "design-template": 63,
+    "element": 67,
+    "typo": 7,
+    "background": 1
+  }
+},
     {
       "packId": "elementkhuydongdauv1",
       "name": "Element khuy đóng dấu V1",
